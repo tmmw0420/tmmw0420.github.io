@@ -1,0 +1,45 @@
+
+
+
+header {
+    background: #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+section {
+
+
+}
+
+#left {
+    background-color: #666;
+}
+
+#main {
+    background-color: #888;
+
+}
+
+#right {
+    background-color: #666;
+}
+
+#full {
+    background-color: #eee;
+
+}
+
+#division {
+    background-color: #6ea3da;
+
+}
+
+aside {
+    background-color: #fff;
+}
+
+footer {
+
+}
